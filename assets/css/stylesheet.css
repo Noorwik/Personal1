@@ -1218,5 +1218,8 @@ body{
     }
     .logo{
 	font-size: 10px;
-    }    
+    }
+    .intxt{
+	font-size: 8px;
+    }
 }
