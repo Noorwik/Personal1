@@ -219,7 +219,7 @@ body{
 .asd{
     /* background-color: chartreuse; */
     position: relative;
-    top: 100px;
+    top: 150px;
 }
 .asd li{
     list-style: none;
@@ -249,7 +249,6 @@ body{
 #introp li{
     list-style: none;
     color: black;
-    top: -50px;
 }
 #introp li,a{
     color: black;
@@ -1214,10 +1213,10 @@ body{
         padding: 270px 0 0 0;
     }
     .asd li a{
-        font-size: 10px;
+        font-size: 8px;
         padding: 7px;
     }
     .logo{
-	font-size: 20px;
+	font-size: 10px;
     }    
 }
