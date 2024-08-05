@@ -249,6 +249,7 @@ body{
 #introp li{
     list-style: none;
     color: black;
+    top: -50px;
 }
 #introp li,a{
     color: black;
