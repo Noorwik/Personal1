@@ -1219,4 +1219,7 @@ body{
     .logo{
 	font-size: 10px;
     }
+    .intxt2, .intxt1{
+	font-size: 50px;
+    }
 }
