@@ -1194,7 +1194,7 @@ body{
         font-size: 22px;
     }
     .qo{
-        font-size: 33px;
+        font-size: 30px;
     }
     .mil,.nar{
         font-size: 20px;
@@ -1283,5 +1283,27 @@ body{
     }
     .mailsub{
         text-align: center;
+    }
+    .skill-con li{
+        list-style: none;
+        font-family: comfortaa;
+        font-size: 25px;
+        padding: 20px 0 20px 0px;
+    }
+    .nar{
+        font-family: comfortaa;
+        font-size: 18px;
+        display: flex;
+        justify-content: center;
+        text-align: justify;
+        padding: 0px 0px 80px 0px;
+    }
+    .li2{
+        font-family: comfortaa;
+        font-size: 22px;
+        padding: 80px 0px 70px 0px;
+        display: flex;
+        text-align: justify;
+        justify-content: center;
     }
 }
