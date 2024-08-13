@@ -1242,4 +1242,10 @@ body{
     #aside2{
         width: 92%;
     }
+	.nav li{
+        font-size: 27px;
+    }
+    .bi,.bi-house{
+        font-size: 30px;
+    }
 }
