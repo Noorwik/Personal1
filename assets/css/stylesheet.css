@@ -1061,7 +1061,7 @@ body{
 
 
 
-@media (max-width: 720px) {
+/* @media (max-width: 720px) {
     .intxt,.txt{
         font-size: 12px;
     }
@@ -1072,7 +1072,7 @@ body{
         padding: 70px 25px 50px 25px;
         font-size: 20px;
     }
-}
+} */
 
 
 
@@ -1304,5 +1304,15 @@ body{
         display: flex;
         text-align: justify;
         justify-content: center;
+    }
+	 .intxt,.txt{
+        font-size: 12px;
+    }
+    .talk{
+        font-size: 50px;
+    }
+    .f1 li, .social li{
+        padding: 70px 25px 50px 25px;
+        font-size: 20px;
     }
 }
