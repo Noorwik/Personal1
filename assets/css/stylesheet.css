@@ -1203,13 +1203,13 @@ body{
         font-size: 22px;
     }
     .qo{
-        font-size: 30px;
-    }
-    .mil,.nar{
         font-size: 20px;
     }
+    .mil,.nar{
+        font-size: 14px;
+    }
     .li2{
-        font-size: 25px;
+        font-size: 14px;
     }
     .line2{
         margin: 0 0 0 20px;
@@ -1301,7 +1301,7 @@ body{
     }
     .nar{
         font-family: comfortaa;
-        font-size: 18px;
+        font-size: 14px;
         display: flex;
         justify-content: center;
         text-align: justify;
@@ -1309,7 +1309,7 @@ body{
     }
     .li2{
         font-family: comfortaa;
-        font-size: 22px;
+        font-size: 14px;
         padding: 80px 0px 70px 0px;
         display: flex;
         text-align: justify;
@@ -1323,7 +1323,7 @@ body{
     }
    .f1 li, .social li{
         padding: 50px 15px 30px 15px;
-        font-size: 12px;
+        font-size: 10px;
     }
 	.intxt1,.con{
         font-size: 30px;
