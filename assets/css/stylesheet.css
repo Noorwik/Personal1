@@ -503,7 +503,7 @@ body{
     background: linear-gradient(30deg, rgb(166, 166, 166) 0%, rgb(72, 72, 72) 100%);
 }
 .gr-bar{
-    width: 75%;
+    width: 50%;
     animation: graphics-bar 3s;
 }
 .three-bar{
@@ -519,7 +519,7 @@ body{
         width: 0%;
     }
     100%{
-        width: 75%;
+        width: 50%;
     }
 }
 @keyframes three-bar{
