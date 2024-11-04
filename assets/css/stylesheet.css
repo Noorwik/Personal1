@@ -384,8 +384,9 @@ body{
     /* background-color: blue; */
     position: relative;
     padding: 150px 0px 50px 0px;
-    width: 92%;
+    width: 90%;
 	text-align: center;
+	justify-content: center;
 
 }
 .quote li{
