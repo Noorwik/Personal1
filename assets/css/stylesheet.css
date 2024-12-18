@@ -719,6 +719,7 @@ body{
 }
 .con-sec{
 	padding: 200px 0 0 0;
+	text-align: center;
 }
 
 
@@ -1351,5 +1352,9 @@ body{
 	.skill-con, h5{
 		font-size: 14px;
 	}
+	.con-sec{
+	padding: 100px 0 0 0;
+	text-align: center;
+}
 }
 
